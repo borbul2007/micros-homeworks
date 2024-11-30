@@ -27,7 +27,7 @@
 
 Обоснуйте свой выбор.\
 **GitLab**\
-Полностью соответстыует требованиям: https://about.gitlab.com/features/
+Полностью соответстыует заявленным требованиям: https://about.gitlab.com/features/
 
 ## Задача 2: Логи
 
@@ -45,7 +45,7 @@
 Обоснуйте свой выбор.\
 **OpenSearch and OpenSearch Dashboards**\
 **Agents** - https://opensearch.org/docs/1.2/clients/agents-and-ingestion-tools/index/ \
-Полностью соответстыует требованиям: https://opensearch.org/docs/latest/about/
+Полностью соответстыует заявленным требованиям: https://opensearch.org/docs/latest/about/
 
 
 ## Задача 3: Мониторинг
@@ -63,7 +63,7 @@
 
 Обоснуйте свой выбор.\
 **Zabbix**\
-Полностью соответстыует требованиям: https://www.zabbix.com/features?utm_campaign=whatsnew_70&utm_source=website&utm_medium=header
+Полностью соответстыует заявленным требованиям: https://www.zabbix.com/features?utm_campaign=whatsnew_70&utm_source=website&utm_medium=header
 
 ## Задача 4: Логи * (необязательная)
 

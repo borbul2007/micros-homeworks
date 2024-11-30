@@ -44,7 +44,7 @@
 
 Обоснуйте свой выбор.\
 **OpenSearch and OpenSearch Dashboards**\
-**Agents** - https://opensearch.org/docs/1.2/clients/agents-and-ingestion-tools/index/
+**Agents** - https://opensearch.org/docs/1.2/clients/agents-and-ingestion-tools/index/ \
 Полностью соответстыует требованиям: https://opensearch.org/docs/latest/about/ \
 
 

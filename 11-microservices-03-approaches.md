@@ -43,9 +43,10 @@
 - возможность дать ссылку на сохранённый поиск по записям логов.
 
 Обоснуйте свой выбор.\
-**OpenSearch and OpenSearch Dashboards**
+**OpenSearch and OpenSearch Dashboards**\
+**Agents** - https://opensearch.org/docs/1.2/clients/agents-and-ingestion-tools/index/
 Полностью соответстыует требованиям: https://opensearch.org/docs/latest/about/ \
-**as Agent** - https://opensearch.org/docs/1.2/clients/agents-and-ingestion-tools/index/
+
 
 ## Задача 3: Мониторинг
 
